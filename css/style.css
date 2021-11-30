@@ -84,7 +84,7 @@ body {
 .numbers {
   display: flex;
   justify-content: space-between;
-  margin: 80px 20px 0 20px;
+  margin: 60px 20px 0 20px;
   padding: 10px;
   color: var(--stat-headings);
 }
@@ -93,6 +93,7 @@ body {
   font-family: var(--lexend-deca);
   color: var(--white);
   padding: 0 0 10px 0;
+  font-size: 27px;
 }
 
 .numbers p {
