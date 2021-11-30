@@ -43,8 +43,9 @@ Users should be able to:
 ### What I learned
 
 I learned how to implement
-[CSS custom properties] (https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-in my code in order to reuse color properties while styling the page. Also, I found out how to use the [order] (https://developer.mozilla.org/en-US/docs/Web/CSS/order) CSS property to lay out an item to where it needed to be given the screen size.
+[CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+in my code in order to reuse color properties while styling the page. Also, I found out how to use the
+[order](https://developer.mozilla.org/en-US/docs/Web/CSS/order) CSS property to lay out an item to where it needed to be given the screen size.
 
 ## Author
 
